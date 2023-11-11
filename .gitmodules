@@ -1,0 +1,3 @@
+[submodule "Todomvc/lib/forge-std"]
+	path = Todomvc/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
